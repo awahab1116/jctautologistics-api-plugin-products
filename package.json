@@ -1,5 +1,5 @@
 {
-  "name": "@jctautologistics/jctautologistics-api-plugin-products",
+  "name": "@reactioncommerce/jctautologistics-api-plugin-products",
   "description": "Boilerplate Example plugin for the Reaction API",
   "label": "Jctautologistics Api Plugin Products",
   "version": "0.0.0-development",
